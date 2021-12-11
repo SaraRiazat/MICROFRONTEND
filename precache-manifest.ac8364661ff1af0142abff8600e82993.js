@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MICROFRONTEND/index.html"
   },
   {
-    "revision": "7b47006c62f4e8a86c92",
+    "revision": "038c487ecf2ad222ad96",
     "url": "/MICROFRONTEND/static/css/main.css"
   },
   {
-    "revision": "7b47006c62f4e8a86c92",
+    "revision": "038c487ecf2ad222ad96",
     "url": "/MICROFRONTEND/static/js/main.js"
   },
   {

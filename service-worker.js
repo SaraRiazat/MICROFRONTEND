@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MICROFRONTEND/precache-manifest.3ed50718fa644f73b6a9b4b1e94b6934.js"
+  "/MICROFRONTEND/precache-manifest.ac8364661ff1af0142abff8600e82993.js"
 );
 
 self.addEventListener('message', (event) => {
