@@ -12,6 +12,7 @@ const defaultHistory = createBrowserHistory();
 function App({ history = defaultHistory }) {
   return (
     <BrowserRouter history={history}>
+      <div>salam</div>
       <Route exact path="/" component={RandomCat} />
       <Route exact path="/CRM" component={RandomCat} />
       <Route exact path='/CRM/Page1' component={Page1} />
